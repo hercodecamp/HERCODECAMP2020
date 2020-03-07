@@ -1,4 +1,4 @@
-# Introduction to Python #
+# Intro to Python #
 
 **Authors**: Heather Gibling, Marta Skreta, Mariana D'Angelo, Swapna Seshadri
 
