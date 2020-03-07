@@ -1,62 +1,32 @@
 ---
 layout: page
-title: 'Intro to Python'
+title: 'Intro to 3D Printing'
 visible: true
 tags:
-  - python
+  - 3D printing
   - beginner
 ---
 
- - **Authors**: [insert]
- - **Research field**: [insert]
- - **Lesson topic**: Introduction to Python
+ - **Authors**: [HER CODE CAMP]
+ - **Lesson topic**: Intro to 3D Printing
  - **Lesson content URL**:
 
 ## Preface: ##
 
-This is a very basic introduction to the Python programming language,
-based largely off of the tutorials in the [Beginners' Guide to Python](https://wiki.python.org/moin/BeginnersGuide/Programmers), in particular the [Learn Python Tutorials](https://pythonspot.com/).
+This is an intrduction to 3D printing and creating things to print with Tinkercad.
 
-Only the command line and a basic text editor are required, but quite
-a few integrated development environments exist, however, including [IDLE](https://docs.python.org/3/library/idle.html)
-and [PyCharm](https://www.jetbrains.com/pycharm/).  Madeleine recommends
-[WingIDE101](https://www.wingware.com/downloads/wingide-101/5.1.5-1).
+A [Tinkercad](https://www.tinkercad.com) account is required to make things, and software for a 3D printer is required to submit an object. We are using the Makerbot Replicator 2 printer, so [Makerbot Print](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/) sofware should be downloaded (specifically, the **Legacy Printer Support** version at the very bottom of the page).
 
 ## Lesson Overview: ##
 
-Python implementations generally interpret code (though compilers
-also exist).  The interpreter that comes with python is accessible
-by typing
+We start with a demonstration of how 3D printers work and what they are capable of. We will find a pre-made object on [Thingiverse](https://www.thingiverse.com/) to print, learn what files to download and how to import them into Makerbot Print.
 
-    python
+Then we will learn how to modify the object in Makerbot Print, check how long it will take to print, and see if it needs support structures to print properly. We will submit the object to our printer and get it started!
 
-into the command line (or clicking the executable on your GUI).
-To run scripts and programs, we can instead type
+Finally we will explore making our own objects in Tinkercad. We will learn how to interact with objects, modify them, combine objects, download files to use in Makerbot Print, and more!
 
-    python practice_code.py
+## Requirements: ##
 
-[IPython](https://ipython.org/) is an improved interactive console
-that's both easier to use and supports additional functionality.
-To run IPython, type
-
-    ipython
-
-To run scripts and programs within ipython, type within IPython
-
-    run practice_code.py
-
-The lesson covers:
-
-* Hello World and print statements
-* Number and string manipulation
-* Lists, tuples and dicts
-* Importing libraries
-* Function declaration
-* IPython debugging
-
-The [official Python documentation site](https://docs.python.org) goes into much more detail
-regarding all topics covered in this code-along.  Python is supported
-by a very, very extensive breadth of packages, a list can be found [here](https://pypi.python.org/pypi)
-Like with git, please check out [StackOverflow](https://stackoverflow.com/questions/tagged/python) for
- any question on it.
-
+* Access to a 3D printer. We will be using a Makerbot Replicator 2, but this lesson should be able to be modified for use with any 3D printer
+* Software for the 3D printer. We will be using Makerbot Print, but use the software that corresponds to the 3D printer being used. (Note that file extensions might be different depending on your printer)
+* A Tinkercad account
