@@ -1,15 +1,7 @@
----
-layout: page
-title: 'Intro to Data Science'
-visible: true
-tags:
-  - python
-  - intermediate 
----
+# Intro to Data Science
 
  - **Authors**: HER CODE CAMP
  - **Research field**: general data science
- - **Lesson topic**: Introduction to Data Science 
  - **Lesson content URL**: TODO: link to data/kaggle page? 
 
 ## Preface: ##
