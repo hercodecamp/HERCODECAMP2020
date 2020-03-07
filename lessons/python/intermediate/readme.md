@@ -18,7 +18,7 @@ This is a friendly introduction to data science concepts. In this tutorial, we w
 ## Dependencies: ## 
 Before you start, you will need a few libraries installed to run through this tutorial. If you have the latest version of python, you can run the following command from the command line to install the packages (e.g., `pip3 install sklearn`). 
 
-  `sklearn`
+  `scikit-learn`
   `numpy`
   `matplotlib`
   `pandas`
