@@ -1,14 +1,7 @@
 ---
-layout: page
-title: 'Intro to 3D Printing'
-visible: true
-tags:
-  - 3D printing
-  - beginner
----
+# Intro to 3D Printing
 
- - **Authors**: [HER CODE CAMP]
- - **Lesson topic**: Intro to 3D Printing
+**Authors**: Heather Gibling
 
 ## Preface: ##
 
