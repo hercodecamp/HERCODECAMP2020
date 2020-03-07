@@ -1,14 +1,6 @@
----
-layout: page
-title: 'Intro to Python'
-visible: true
-tags:
-  - python
-  - beginner
----
+# Introduction to Python #
 
- - **Authors**: Heather Gibling, Marta Skreta, Mariana D'Angelo, Swapna Seshadri
- - **Lesson topic**: Introduction to Python
+**Authors**: Heather Gibling, Marta Skreta, Mariana D'Angelo, Swapna Seshadri
 
 ## Preface: ##
 
