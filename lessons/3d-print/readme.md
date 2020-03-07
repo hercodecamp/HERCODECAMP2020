@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Intro to 3D Printing'
-visible: false
+visible: true
 tags:
   - 3D printing
   - beginner
@@ -9,7 +9,6 @@ tags:
 
  - **Authors**: [HER CODE CAMP]
  - **Lesson topic**: Intro to 3D Printing
- - **Lesson content URL**:
 
 ## Preface: ##
 
