@@ -1,8 +1,6 @@
 # Intro to Data Science
 
- - **Authors**: HER CODE CAMP
- - **Research field**: general data science
- - **Lesson content URL**: TODO: link to data/kaggle page? 
+ - **Authors**: Julia Watson and Chantal Shaib 
 
 ## Preface: ##
 
