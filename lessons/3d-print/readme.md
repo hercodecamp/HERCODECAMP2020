@@ -1,11 +1,10 @@
----
 # Intro to 3D Printing
 
 **Authors**: Heather Gibling
 
 ## Preface: ##
 
-This is an intrduction to 3D printing and creating things to print with Tinkercad.
+This is an intro to 3D printing and creating things to print with Tinkercad.
 
 A [Tinkercad](https://www.tinkercad.com) account is required to make things, and software for a 3D printer is required to submit an object. We are using the Makerbot Replicator 2 printer, so [Makerbot Print](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/) sofware should be downloaded (specifically, the **Legacy Printer Support** version at the very bottom of the page).
 
