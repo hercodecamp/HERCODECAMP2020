@@ -17,7 +17,7 @@ Then we will learn how to modify the object in Makerbot Print, check how long it
 
 Finally we will explore making our own objects in Tinkercad. We will learn how to interact with objects, modify them, combine objects, download files to use in Makerbot Print, and more!
 
-## Requirements: ##
+## Dependencies: ##
 
 * Access to a 3D printer. We will be using a Makerbot Replicator 2, but this lesson should be able to be modified for use with any 3D printer
 * Software for the 3D printer. We will be using Makerbot Print, but use the software that corresponds to the 3D printer being used. (Note that file extensions might be different depending on your printer)
