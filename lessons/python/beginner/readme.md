@@ -18,13 +18,12 @@ We developed our Intro to Python workshop based on material from [Software Carpe
 
 ## Lesson Overview: ##
 
-The lesson covers:
-
 * syntax
 * functions
 * variables
 * data types (numbers, strings, booleans)
 * number and string manipulation
+* lists
 * logic (conditional statements, loops)
 
 We end in a project building a rock, paper, scissors game applying concepts learned in this lesson.
