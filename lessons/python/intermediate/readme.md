@@ -35,4 +35,5 @@ This lesson covers:
 * Pandas dataframe and manipulating data in a table 
 * Data visualization and plotting with matplotlib
 * Linear regression with sklearn
+* Intro to feature engineering
 
