@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Intro to 3D Printing'
-visible: true
+visible: false
 tags:
   - 3D printing
   - beginner
